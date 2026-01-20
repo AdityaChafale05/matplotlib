@@ -52,4 +52,4 @@ plt.legend()
 # Render the plot on screen
 plt.show()
 
-    
+#run this in terminal using: python demo_plot-checkpoint.py
